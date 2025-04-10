@@ -4,16 +4,16 @@
 Перед началом работы убедитесь, что на вашем компьютере установлены следующие компоненты:
 - Visual Studio (рекомендуется версия 2022 или выше).
 - .NET SDK (версия 6.0 или выше). Убедитесь, что .NET SDK установлен, выполнив команду в терминале:
-dotnet --version
+**"dotnet --version"**
 - Git (для клонирования репозитория).
 - Postman или браузер для тестирования API
 
 ## 2. Клонирование репозитория
 
 Откройте терминал (или Git Bash) и выполните команду для клонирования репозитория:
-git clone https://github.com/Disciplovich/AdvertisingPlatforms.git
+**"git clone https://github.com/Disciplovich/AdvertisingPlatforms.git"** 
 Перейдите в папку проекта: 
-cd AdvertisingPlatforms
+**"cd AdvertisingPlatforms"**
 
 ## 3. Запуск проекта
 
